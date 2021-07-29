@@ -56,3 +56,7 @@ def create_dictionary(clean_list):
 if __name__ == '__main__':
     start("https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar")
 
+#fim    
+# https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp
+
+# https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar"
